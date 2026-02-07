@@ -1,0 +1,7 @@
+{
+  "server": "fm-sg1.fmyear.online",
+  "server_port": 41499,
+  "password": "KnJzRaTibNRwUOZ2v1WtDr",
+  "method": "chacha20-ietf-poly1305",
+  "remarks": "TestMtk"
+}
